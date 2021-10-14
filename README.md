@@ -1,7 +1,7 @@
 
 <div align=center>
-<h2> 안녕하십니까!
-소통을 사랑하는 개발자 김훈태입니다. </h2>
+<h1> 안녕하십니까!
+소통을 사랑하는 개발자 김훈태입니다. </h1>
 <h3>💻 Teck Skill 💻</h3>
 <p>
  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
