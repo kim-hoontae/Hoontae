@@ -14,10 +14,10 @@
 <a href="https://velog.io/@kim-hoontae"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
 <a href="mailto:gnsxo9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </div>
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=Hoontae&count_private=true&show_icons=true"></div>
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=kim-hoontae&count_private=true&show_icons=true"></div>
 
 <!--
-**hoontae-kim/Hoontae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kim-hoontae/Hoontae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
